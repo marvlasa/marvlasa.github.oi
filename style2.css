@@ -1,0 +1,133 @@
+
+
+body {
+
+	background-color: rgba(38, 77, 127, 0.5);
+
+}
+
+h1{
+
+
+
+	height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 200%;
+	font-family: "times new roman", georgia;
+	color: black;
+	text-align: center;
+	border-bottom: 3px solid rgb(245, 142, 152);
+	border-right: 3px solid rgb(245, 142, 152);
+	margin-top: 5px;
+	margin-left: 5px;
+	width: 600px;
+
+	cursor:pointer; 
+	text-transform:capitalize; 
+	box-shadow: 5px 5px 10px #888888;
+
+
+}
+
+hr {
+
+
+	border-color: rgb(245, 142, 152);
+	border-width: 3px;
+	max-width: 100px;
+
+}
+
+.boxmodel {
+
+	
+	
+	
+	cursor: pointer;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px;
+	height: 40px;
+	width: 90px;
+	justify-content: center;
+
+
+}
+
+
+.boxmodel1 {
+
+
+
+	cursor: pointer;
+	display: inline-block;
+	padding: 5px 30px;
+	margin: 30px 50px;
+	height: 90px;
+	width: 100px;
+	justify-content: center;
+	
+	
+
+}
+
+
+
+.container {   
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+
+	
+ }
+
+img {
+
+
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+	
+
+}
+
+img:hover {
+
+	transform: scale(1.1);
+
+}
+
+.btn-xl {
+
+	padding: 0.5rem 1rem;
+
+}
+
+.btn {
+
+	border-radius: 300px;
+
+
+}
+
+.btn-primary {
+
+
+	background-color: rgb(245, 142, 152);
+	border-color: rgb(245, 142, 152);
+}
+
+.btn-primary:hover {
+
+	background-color: rgb(251, 79, 83);
+	border-color: rgb(251, 79, 83);
+	border-width: 5px;
+
+}
+
+
+

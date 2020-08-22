@@ -1,0 +1,164 @@
+/*Selector{Property:value;
+
+}*/
+
+body, html {
+
+	background: url(https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/22-05-2020-Peacekeeping-UNMISS.jpg/image1170x530cropped.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+h1 {
+
+	background-color: rgba(245, 142, 152, 0.6);
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 200%;
+	font-family: "times new roman", georgia;
+	color: black;
+	text-align: center;
+	cursor:pointer; 
+	text-transform:capitalize;
+	box-shadow: 5px 5px 5px #888888;
+	margin-top: 0px;
+
+}
+
+h2 {
+
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+	font-family: "times new roman", georgia;
+	color: black;	
+
+}
+
+h3 {
+
+
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 130%;
+	font-family: "times new roman", georgia;
+	color: black;
+}
+
+p {
+
+	color: black;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: "times new roman", georgia;
+	
+
+	
+
+}
+
+
+
+li{
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: "times new roman", georgia;
+	color:black;
+	list-style: none;
+	
+
+
+}
+
+
+
+a {
+
+	color: rgb(104, 119, 189);
+	font-size: 120%;
+	text-decoration:none;
+
+
+}
+
+.active {
+
+	
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: "times new roman", georgia;
+}
+
+.active1 {
+
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: "times new roman", georgia;
+
+
+}
+
+.active2 {
+
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: "times new roman";
+
+}
+
+.active3 {
+
+	color: rgb(225, 39, 43);
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: "times new roman";
+
+
+}
+
+#div1 {
+
+	background: rgba(245, 142, 152, 0.6);
+	
+}
+
+#div2 {
+
+	background: rgba(245, 142, 152, 0.6);
+
+}
+
+span {
+
+	font-size: 50px;
+
+}
+
+
+
+img {
+
+	width: 500px;
+	height: 300px;
+}
+
+
+
+
